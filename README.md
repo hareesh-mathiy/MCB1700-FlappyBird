@@ -7,9 +7,9 @@ Flappy Bird implemented on the Kiel MCB1700 Evaluation Board in C along with a m
 <br><hr>
 # Screenshots
 <p float="left">
-<img src="https://raw.githubusercontent.com/hareesh-mathiy/MCB1700-FlappyBird/master/Screenshots/pic3.PNG" width="33%"/>
+  <img src="https://raw.githubusercontent.com/hareesh-mathiy/MCB1700-FlappyBird/master/Screenshots/pic3.PNG" width="33%"/>
   <br>
-<img src="https://raw.githubusercontent.com/hareesh-mathiy/MCB1700-FlappyBird/master/Screenshots/pic2.PNG" width="34%"/>
+  <img src="https://raw.githubusercontent.com/hareesh-mathiy/MCB1700-FlappyBird/master/Screenshots/pic2.PNG" width="34%"/>
   <br>
-<img src="https://raw.githubusercontent.com/hareesh-mathiy/MCB1700-FlappyBird/master/Screenshots/pic1.PNG" width="35%"/>
+  <img src="https://raw.githubusercontent.com/hareesh-mathiy/MCB1700-FlappyBird/master/Screenshots/pic1.PNG" width="35%"/>
 </p>
